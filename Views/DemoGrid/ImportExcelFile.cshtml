@@ -1,0 +1,22 @@
+﻿@model CrudAppliction.Models.CustomerTB
+@{
+    ViewData["Title"] = "ImportExcelFile";
+    Layout = "~/Views/Shared/Navbar_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <form method="post" asp-action="ImportExcelFile" asp-controller="DemoGrid" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label><b>Upload Excel File :</b> </label>
+                    <br />
+                    <input type="file" name="formfile" class="form-control" accept=".csv,.xls,.xlsx" />
+                </div><br />
+                <input type="submit" class="btn btn-sm btn-primary float-end" value="upload" />
+            </form>
+        </div>
+    </div>
+</div>
+
+
