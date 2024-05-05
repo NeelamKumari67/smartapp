@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SmartApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SmartApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\DataTables.zip",
+      "PackagePath": "staticwebassets\\DataTables.zip"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\024729c7-9a68-4a2b-b2ee-b4975012a230.png",
+      "PackagePath": "staticwebassets\\NewFolder\\024729c7-9a68-4a2b-b2ee-b4975012a230.png"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\dryfruit1.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\dryfruit1.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\girls2.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\girls2.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\girls3.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\girls3.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\girls4.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\girls4.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\girls5.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\girls5.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\images.png",
+      "PackagePath": "staticwebassets\\NewFolder\\images.png"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\images30.png",
+      "PackagePath": "staticwebassets\\NewFolder\\images30.png"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\images90.png",
+      "PackagePath": "staticwebassets\\NewFolder\\images90.png"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\lipistic.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\lipistic.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\predict-customer-acceptance.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\predict-customer-acceptance.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\product1.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\product1.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\product5.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\product5.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\shampoo2.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\shampoo2.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\shoes1.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\shoes1.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\shoes2.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\shoes2.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\shoes3.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\shoes3.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\shopping.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\shopping.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\trailer.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\trailer.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\vegetable.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\vegetable.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\watch1.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\watch1.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\watch2.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\watch2.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\watch3.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\watch3.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\NewFolder\\watch4.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\watch4.jpg"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\css\\Custom.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\css\\NavbarStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\NavbarStyleSheet.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\css\\SmartStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\SmartStyleSheet.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\js\\Error.js",
+      "PackagePath": "staticwebassets\\js\\Error.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\js\\Java.js",
+      "PackagePath": "staticwebassets\\js\\Java.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CrudApplication\\CrudAppliction\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SmartApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SmartApp.props",
+      "PackagePath": "build\\SmartApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartApp.props",
+      "PackagePath": "buildMultiTargeting\\SmartApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SmartApp.props",
+      "PackagePath": "buildTransitive\\SmartApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

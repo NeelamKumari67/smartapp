@@ -1,0 +1,132 @@
+﻿@model CrudAppliction.Models.Registration
+<style>
+    body {
+        background-color: whitesmoke;
+    }
+</style>
+<section class="h-100 bg-dark">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col">
+                <div class="card card-registration my-4">
+                    <div class="row g-0">
+                        <div class="col-xl-6 d-none d-xl-block">
+                            <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/img4.webp"
+                                 alt="Sample photo" class="img-fluid"
+                                 style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem;" />
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card-body p-md-5 text-black">
+                                <h3 class="mb-5 text-uppercase"> Sign Up</h3>
+                                @*        <h3 class="text-danger text-center">@TempData["Message"]</h3> *@
+                                <form method="post" asp-action="SignUp">
+
+                                    <div class="row">
+                                        <div class="col-md-6 mb-4">
+                                            <div class="form-outline">
+                                                <label asp-for="FirstName">First Name</label>
+                                                <input type="text" class="form-control" asp-for="FirstName" placeholder="Enter your firstname" />
+                                                <span asp-validation-for="FirstName" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 mb-4">
+                                            <div class="form-outline">
+                                                <label asp-for="LastName">Last Name</label>
+                                                <input type="text" asp-for="LastName" class="form-control" placeholder="Enter your lastname" />
+                                                <span asp-validation-for="LastName" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-outline mb-4">
+                                        <label asp-for="Address">Address</label>
+                                        <input type="text" class="form-control" asp-for="Address" placeholder="Enter your address" />
+                                        <span asp-validation-for="Address" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="form-outline mb-4">
+                                        <label asp-for="PhoneNumber">PhoneNumber</label>
+                                        <input type="text" class="form-control" asp-for="PhoneNumber" placeholder="Enter your number" />
+                                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                    </div>
+                                    @*  <div class="d-md-flex justify-content-start align-items-center mb-4 py-2">
+
+                                    <h6 class="mb-0 me-4">Gender: </h6>
+
+                                    <div class="form-check form-check-inline mb-0 me-4">
+                                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="femaleGender"
+                                    value="option1" />
+                                    <label class="form-check-label" for="femaleGender">Female</label>
+                                    </div>
+
+                                    <div class="form-check form-check-inline mb-0 me-4">
+                                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="maleGender"
+                                    value="option2" />
+                                    <label class="form-check-label" for="maleGender">Male</label>
+                                    </div>
+
+                                    <div class="form-check form-check-inline mb-0">
+                                    <input class="form-check-input" type="radio" name="inlineRadioOptions"
+                                    value="option3" />
+                                    <label class="form-check-label">Other</label>
+                                    </div>
+                                    </div> *@
+                                    @* <div class="row">
+                                    <div class="col-md-6 mb-4">
+
+                                    <select class="select">
+                                    <option value="1">State</option>
+                                    <option value="2">Uttar Pradesh</option>
+                                    <option value="3">Madhya Pradesh</option>
+                                    <option value="4">Dehradun</option>
+                                    </select>
+                                    </div>
+                                    <div class="col-md-6 mb-4">
+                                    <select class="select">
+                                    <option value="1">City</option>
+                                    <option value="2">Mathura</option>
+                                    <option value="3">Agra</option>
+                                    <option value="4">Delhi</option>
+                                    </select>
+                                    </div>
+                                    </div> *@
+                                    <div class="form-group">
+                                        <label asp-for="Email">Email Address</label>
+                                        <input type="text" asp-for="Email" class="form-control" autocomplete="off" placeholder="name@gmail.com" />
+                                        <span class=" text-danger" asp-validation-for="Email"></span>
+                                        <span class="text-danger">@TempData["message"]</span>
+                                    </div><br />
+                                    <div class="form-group">
+                                        <label asp-for="Password"></label>
+                                        <input type="password" asp-for="Password" class="form-control" autocomplete="off" placeholder="............" id="password" />
+                                        @* <i class="bi bi-eye-slash" id="togglePassword"></i> *@
+                                        <i class="fas fa-eye-slash" id="togglePassword"></i>
+                                        <span class=" text-danger" asp-validation-for="Password"></span>
+                                        <span class="text-danger">@TempData["errormessage"]</span>
+                                    </div><br />
+                                    <input type="submit" value="submit" class="btn btn-sm btn-outline-success float-end" />
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    const togglePassword = document
+        .querySelector('#togglePassword');
+    const password = document.querySelector('#password');
+    togglePassword.addEventListener('click', () => {
+        // Toggle the type attribute using
+        // getAttribure() method
+        const type = password
+            .getAttribute('type') === 'password' ?
+            'text' : 'password';
+        password.setAttribute('type', type);
+        // Toggle the eye and bi-eye icon
+        this.classList.toggle('fa-eye-slash');
+    });
+</script>
